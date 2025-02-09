@@ -1,13 +1,13 @@
 <h1 align="center">⚽ Halisaha Otomasyonu: Efficient Court Management</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/username/halisaha-otomasyonu?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/username/halisaha-otomasyonu?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/username/halisaha-otomasyonu?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/dev-yuci/Hali-Saha-Otomasyonu?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/dev-yuci/Hali-Saha-Otomasyonu?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/dev-yuci/Hali-Saha-Otomasyonu?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://your-project-banner.com/banner.png" alt="Project Banner">
+  <img src="https://github.com/dev-yuci/Hali-Saha-Otomasyonu/blob/master/KarsilamaEkrani.png" alt="Project Banner">
 </p>
 
 ## 🌟 **Project Description**  
@@ -31,8 +31,11 @@
 
 ## 📸 **Screenshots**  
 <p align="center">
-  <img src="https://your-screenshot-link.com/screenshot1.png" width="400">
-  <img src="https://your-screenshot-link.com/screenshot2.png" width="400">
+  <img src="https://github.com/dev-yuci/Hali-Saha-Otomasyonu/blob/master/KarsilamaEkrani.png" width="400">
+  <img src="https://github.com/dev-yuci/Hali-Saha-Otomasyonu/blob/master/GirisEkrani.png" width="400">
+  <img src="https://github.com/dev-yuci/Hali-Saha-Otomasyonu/blob/master/%C4%B0statistik.png" width="400">
+  <img src="https://github.com/dev-yuci/Hali-Saha-Otomasyonu/blob/master/Tablo_Otomasyon.png" width="400">
+  <img src="https://github.com/dev-yuci/Hali-Saha-Otomasyonu/blob/master/Giris_Tablo.png" width="400">
 </p>
 
 ---
@@ -43,7 +46,7 @@ Follow these steps to set up and run the project:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/username/halisaha-otomasyonu.git
+git clone https://github.com/dev-yuci/Hali-Saha-Otomasyonu.git
 
 # 2️⃣ Navigate to the project directory
 cd halisaha-otomasyonu
